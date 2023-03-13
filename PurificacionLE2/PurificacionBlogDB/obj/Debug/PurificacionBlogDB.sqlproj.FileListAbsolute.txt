@@ -1,0 +1,6 @@
+C:\Users\Migo\source\repos\PurificacionLE2\PurificacionBlogDB\bin\Debug\PurificacionBlogDB.dacpac
+C:\Users\Migo\source\repos\PurificacionLE2\PurificacionBlogDB\bin\Debug\PurificacionBlogDB.dll
+C:\Users\Migo\source\repos\PurificacionLE2\PurificacionBlogDB\bin\Debug\PurificacionBlogDB.pdb
+C:\Users\Migo\source\repos\PurificacionLE2\PurificacionBlogDB\obj\Debug\PurificacionBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\Migo\source\repos\PurificacionLE2\PurificacionBlogDB\obj\Debug\PurificacionBlogDB.dll
+C:\Users\Migo\source\repos\PurificacionLE2\PurificacionBlogDB\obj\Debug\PurificacionBlogDB.pdb

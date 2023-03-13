@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="4af7f19c-e1b6-4c10-b76c-56c3887f79bd" ChangeDateTime="02/28/2023 06:47:29">
+    <Property Name="ElementName" Value="[dbo].[Users].[Username]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Users]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="UsernName" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="2752ed8f-8679-4e6e-9c41-d33dd34078fb" ChangeDateTime="02/28/2023 06:47:53">
+    <Property Name="ElementName" Value="[dbo].[Users].[LastSurname]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Users]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="LastName" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="5989a13f-44f1-44ec-8576-5de5c9eede23" ChangeDateTime="03/08/2023 13:57:23">
+    <Property Name="ElementName" Value="[dbo].[Users].[UsernName]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Users]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="UserName" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="ec07c4d7-b2c3-405b-9646-a379824015ea" ChangeDateTime="03/08/2023 14:37:27">
+    <Property Name="ElementName" Value="[dbo].[Posts].[Data Created]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Posts]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="DataCreated" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="618ae679-134e-4054-aaa8-b3a8363c3492" ChangeDateTime="03/08/2023 14:38:00">
+    <Property Name="ElementName" Value="[dbo].[Posts].[DataCreated]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Posts]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="DateCreated" />
+  </Operation>
+</Operations>
